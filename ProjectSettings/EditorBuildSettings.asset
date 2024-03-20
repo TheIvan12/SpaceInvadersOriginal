@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: ae3c23dce5e1fe14db511b2617d62808
+  - enabled: 1
+    path: Assets/Scenes/SpaceInvaders.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 8ed64cb81b945a0498cfbcf76df1a32f
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 0364d8066a9392444bff9a93a58cc73e
+  m_configObjects: {}
